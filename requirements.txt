@@ -1,0 +1,4 @@
+firebase_admin
+bs4
+python-twitter
+configparser
